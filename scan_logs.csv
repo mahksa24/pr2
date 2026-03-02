@@ -1,0 +1,16 @@
+timestamp,type,input,risk_score,probability,verdict
+2026-03-02T20:22:52,URL,kick.com,0.0,0.005,LOW
+2026-03-02T20:23:08,URL,http://www.makro-pro-th-a2.shop/,100.0,0.995,HIGH
+2026-03-02T20:23:46,URL,http://en-us-exxedos.pages.dev,100.0,1.0,HIGH
+2026-03-02T20:24:06,URL,https://waronsol.world/,76.0,0.765,HIGH
+2026-03-02T20:24:14,URL,https://waronsol.world/,76.0,0.765,HIGH
+2026-03-02T20:24:51,URL,https://www.facebook.com/,55.0,0.55,MEDIUM
+2026-03-02T20:25:04,URL,https://www.facebook.com,15.0,0.15,LOW
+2026-03-02T20:25:23,FILE,server.jar,,,SUSPICIOUS
+2026-03-02T20:25:41,FILE,Apex Legends.url,,,LOW_RISK
+2026-03-02T20:25:59,FILE,fibonacci-project last updated (1).docx,,,SUSPICIOUS
+2026-03-02T20:26:29,FILE,yuzu.rar,,,SUSPICIOUS
+2026-03-02T20:26:58,URL,https://www.twitch.tv/,55.0,0.55,MEDIUM
+2026-03-02T20:27:01,URL,https://www.twitch.tv,2.0,0.02,LOW
+2026-03-02T20:27:03,URL,https://www.twitch.tv,2.0,0.02,LOW
+2026-03-02T20:27:10,FILE,yuzu.rar,,,SUSPICIOUS
